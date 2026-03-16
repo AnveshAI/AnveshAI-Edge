@@ -9,16 +9,17 @@ AnveshAI Edge is a terminal-based AI assistant designed to run entirely on-devic
 ## Table of Contents
 
 1. [Architecture Overview](#architecture-overview)
-2. [Components](#components)
-3. [Advanced Math Engine](#advanced-math-engine)
-4. [Reasoning Engine](#reasoning-engine)
-5. [Getting Started](#getting-started)
-6. [Usage Examples](#usage-examples)
-7. [Commands](#commands)
-8. [Design Principles](#design-principles)
-9. [File Structure](#file-structure)
-10. [Technical Details](#technical-details)
-11. [Links](#link)
+2. [Benchmark test & Evaluation experiments](#Benchmark-test-&-Evaluation-experiments)
+3. [Components](#components)
+4. [Advanced Math Engine](#advanced-math-engine)
+5. [Reasoning Engine](#reasoning-engine)
+6. [Getting Started](#getting-started)
+7. [Usage Examples](#usage-examples)
+8. [Commands](#commands)
+9. [Design Principles](#design-principles)
+10. [File Structure](#file-structure)
+11. [Technical Details](#technical-details)
+12. [Links](#link)
 
 ---
 
@@ -57,6 +58,14 @@ User Input
                                     Reasoning Engine: analyze() + build_general_prompt()
                                         └► LLM with CoT context → User
 ```
+
+
+## Benchmark test & Evaluation experiments
+
+<img src="diagram/download(1).png">
+<img src="diagram/download.png">
+
+
 
 ### Key Design Principle
 
@@ -344,7 +353,6 @@ anveshai/
 | `LLM+CoT-KB` | KB miss → reasoning-guided LLM |
 | `Chat` | Conversation pattern match |
 | `LLM+CoT` | Reasoning-guided LLM for open conversation |
-
 
 ## Link
 
