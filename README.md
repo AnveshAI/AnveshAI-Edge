@@ -18,6 +18,7 @@ AnveshAI Edge is a terminal-based AI assistant designed to run entirely on-devic
 8. [Design Principles](#design-principles)
 9. [File Structure](#file-structure)
 10. [Technical Details](#technical-details)
+11. [Links](#link)
 
 ---
 
@@ -346,6 +347,11 @@ anveshai/
 | `Chat` | Conversation pattern match |
 | `LLM+CoT` | Reasoning-guided LLM for open conversation |
 
+
+## Link
+
+- **HuggingFace:-** [Click Here!](https://huggingface.co/AnveshAI/AnveshAI-Edge)
+- **Zenodo:-** [Click Here!](https://zenodo.org/records/19045466)
 
 ---
 license: [MIT](LICENSE)
