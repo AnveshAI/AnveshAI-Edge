@@ -1,0 +1,29 @@
+Python is a high-level, interpreted programming language known for its readability and simplicity. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python was created by Guido van Rossum and first released in 1991. It is widely used in web development, data science, artificial intelligence, and automation.
+
+Machine learning is a subset of artificial intelligence that enables systems to learn from data and improve their performance over time without being explicitly programmed. Common machine learning algorithms include linear regression, decision trees, neural networks, and support vector machines. Libraries like scikit-learn, TensorFlow, and PyTorch are widely used for machine learning in Python.
+
+Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn. AI encompasses subfields such as machine learning, natural language processing, computer vision, and robotics. AI applications include virtual assistants, recommendation systems, autonomous vehicles, and medical diagnosis.
+
+Natural language processing (NLP) is a branch of AI that helps computers understand, interpret, and generate human language. Key NLP tasks include tokenization, sentiment analysis, named entity recognition, and machine translation. Popular NLP libraries include NLTK, spaCy, and Hugging Face Transformers.
+
+Deep learning is a subset of machine learning that uses neural networks with many layers (deep neural networks) to model complex patterns in data. It has achieved breakthrough performance in image recognition, speech recognition, and natural language understanding. Deep learning requires large datasets and significant computational resources.
+
+A database is an organized collection of structured information or data, typically stored electronically in a computer system. Databases are managed by database management systems (DBMS). Common types include relational databases (SQL) like MySQL, PostgreSQL, and SQLite, and non-relational databases (NoSQL) like MongoDB and Redis.
+
+The internet is a global network of interconnected computers that communicate using standardized protocols. It was developed in the late 1960s by ARPA (Advanced Research Projects Agency). The World Wide Web (WWW), invented by Tim Berners-Lee in 1989, is a service that runs on the internet and allows users to access websites using a browser.
+
+Cloud computing is the delivery of computing services including servers, storage, databases, networking, software, analytics, and intelligence over the internet to offer faster innovation, flexible resources, and economies of scale. Major cloud providers include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform.
+
+Linux is an open-source operating system kernel first released by Linus Torvalds in 1991. It forms the basis of many operating systems (distributions) such as Ubuntu, Fedora, and Debian. Linux is widely used in servers, supercomputers, Android devices, and embedded systems. It is known for its stability, security, and flexibility.
+
+Cybersecurity refers to the practice of protecting systems, networks, and programs from digital attacks. These attacks often aim to access, change, or destroy sensitive information, extort money, or interrupt normal business processes. Key concepts include encryption, firewalls, intrusion detection, and ethical hacking.
+
+Quantum computing is a type of computation that harnesses quantum mechanical phenomena such as superposition and entanglement. Unlike classical bits (0 or 1), quantum bits (qubits) can represent multiple states simultaneously. This allows quantum computers to solve certain problems exponentially faster than classical computers.
+
+Blockchain is a distributed ledger technology that records transactions across many computers so that the record cannot be altered retroactively. It was popularized by Bitcoin, the first decentralized cryptocurrency, created by the pseudonymous Satoshi Nakamoto in 2008. Blockchain is also used in smart contracts, supply chain management, and digital identity.
+
+An algorithm is a step-by-step procedure or formula for solving a problem. In computer science, algorithms are used to process data, perform calculations, and automate reasoning tasks. Common categories include sorting algorithms (quicksort, mergesort), search algorithms (binary search, BFS, DFS), and graph algorithms (Dijkstra, A*).
+
+Data structures are ways of organizing and storing data in a computer so that it can be accessed and modified efficiently. Common data structures include arrays, linked lists, stacks, queues, trees, heaps, hash tables, and graphs. Choosing the right data structure is fundamental to writing efficient algorithms.
+
+Version control is a system that records changes to files over time so you can recall specific versions later. Git is the most widely used version control system. Platforms like GitHub, GitLab, and Bitbucket host Git repositories and provide collaboration tools such as pull requests, issues, and CI/CD pipelines.

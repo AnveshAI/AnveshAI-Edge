@@ -1,0 +1,4 @@
+colorama>=0.4.6
+sympy>=1.12
+llama-cpp-python>=0.3.0
+huggingface-hub>=0.23.0

@@ -1,0 +1,23 @@
+# Conversation patterns for AnveshAI Edge Prototype
+# Format: PATTERN|||RESPONSE
+# Patterns are case-insensitive regex, separated from responses by |||
+
+hello|hi|hey|||Hello! I'm AnveshAI Edge. How can I help you today?
+how are you|how do you do|||I'm running smoothly and ready to assist you!
+what is your name|who are you|what are you|||I'm AnveshAI Edge Prototype, a local offline AI assistant built on a hierarchical modular architecture.
+what can you do|help me|what do you know|||I can answer knowledge questions, solve math problems, and chat with you — all locally without any internet connection! Type /help for commands.
+thank you|thanks|thank u|||You're welcome! Is there anything else I can help you with?
+bye|goodbye|see you|quit|exit|||Goodbye! Use /exit to close the session properly.
+good morning|||Good morning! Ready to assist you today.
+good evening|||Good evening! What can I help you with?
+good night|||Good night! Hope I was helpful today.
+who made you|who created you|who built you|||I was built as a demo of a hierarchical offline AI architecture. Designed to be modular and fully offline.
+are you smart|are you intelligent|||I'm a lightweight rule-based system — not as powerful as a large language model, but fast, private, and fully offline!
+what time is it|current time|||I don't have access to a clock, but you can check your system time easily.
+tell me a joke|joke|||Why do programmers prefer dark mode? Because light attracts bugs!
+what is ai|what is artificial intelligence|||Artificial Intelligence is the simulation of human intelligence in machines. Type 'knowledge: artificial intelligence' for a detailed explanation!
+interesting|cool|awesome|wow|||Glad you think so! What else would you like to explore?
+okay|ok|alright|||Sure! Let me know if there's anything I can help you with.
+yes|||Got it! What would you like to do next?
+no|||Understood. Feel free to ask me anything else.
+sorry|my bad|||No problem at all! How can I help you?
