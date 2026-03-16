@@ -227,8 +227,6 @@ cd anveshai
 python main.py
 ```
 
-Or use the **AnveshAI Edge** workflow in the Replit environment.
-
 ---
 
 ## Usage Examples
